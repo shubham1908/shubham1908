@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://media.giphy.com/media/qPa9vUYCUrx6w/giphy.gif"  width="1000" height="500" />
+<img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  width="1000" height="500" />
