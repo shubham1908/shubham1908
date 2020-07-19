@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-![alt text](https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif)
+<img src="https://media.giphy.com/media/qPa9vUYCUrx6w/giphy.gif"  width="1000" height="500" />
