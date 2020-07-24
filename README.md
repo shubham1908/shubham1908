@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" height="300"/>
 
-Contact me - shubham1908gupta@gmail.com
+### Contact me - shubham1908gupta@gmail.com
