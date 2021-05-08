@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### Codechef - <a href="https://www.codechef.com/users/shubhamg_9081"> shubhamg_9081</a>
 #### Codeforces - <a href="https://codeforces.com/profile/shubh1908"> shubh1908</a>
 
-- 📫 How to reach me: ...
-#### Linkedin - <a href="https://www.linkedin.com/in/shubham-gupta-210bb3185/"> Shubham Gupta</a>
-#### Email - <a email="shubham1908gupta@gmail.com"> shubham1908gupta@gmail.com</a>
-#### Contact No. - +91-7388349966
+ 📫 How to reach me: ...
+- Linkedin - <a href="https://www.linkedin.com/in/shubham-gupta-210bb3185/"> Shubham Gupta</a>
+- Email - <a email="shubham1908gupta@gmail.com"> shubham1908gupta@gmail.com
+-  Contact No. - +91-7388349966
