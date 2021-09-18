@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 
 <img src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" height="300"/>
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=shubham1908&show_icons=true&theme=material-palenight"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham1908&theme=material-palenight&hide_langs_below=1" height = "400rem"/>
 
 
-
+</div>
 
 #### Resume - <a href="https://drive.google.com/file/d/1BPMCkZjQHjRtthAs6-8hir3bw05xz2kr/view?usp=sharing"> Shubham Gupta</a>
 #### Codechef - <a href="https://www.codechef.com/users/shubhamg_9081"> shubhamg_9081</a>
