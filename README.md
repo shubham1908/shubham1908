@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 </div>
  📫 How to reach me: ...
-- Linkedin - <a href="https://www.linkedin.com/in/shubham-gupta-210bb3185/"> Shubham Gupta</a>
-- Email - <a email="shubham1908gupta@gmail.com"> shubham1908gupta@gmail.com
--  Contact No. - +91-7388349966
+- Linkedin - <a href="https://www.linkedin.com/in/shubham-gupta-210bb3185/"> Shubham Gupta</a><br>
+- Email - <a email="shubham1908gupta@gmail.com"> shubham1908gupta@gmail.com<br>
+- Contact No. - +91-7388349966
