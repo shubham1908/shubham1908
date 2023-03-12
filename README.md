@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Problem solving (DSA)😉**
 
-- 📫 How to reach me **shubham1908gupta@gmail.com**
+- 📫 How to reach me **talkwith.sbm@gmail.com**
 
 -  I’m looking to collaborate with other developers working on below mentioned tech-stack.
 
