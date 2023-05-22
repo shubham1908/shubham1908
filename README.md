@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubham1908&label=Profile%20views&color=0e75b6&style=flat" alt="shubham1908" /> </p>
 
 
-- 🌱 I’m currently learning **Node.js and react**
+- 🌱 I’m currently working [tiket.com](http://tiket.com/) as a Backend Engineer (specialised in Golang, Spring, Kafka, and microservices...)
 
-- 💬 Ask me about **Problem solving (DSA)😉**
+- 💬 Ask me about **Problem solving (DSA) and System Design 😉**
 
 - 📫 How to reach me **talkwith.sbm@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-gupta-210bb3185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-gupta-210bb3185/" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sbm-gpt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-gupta-210bb3185/" height="50" width="50" /></a>
 <a href="https://www.codechef.com/users/shubhamg_9081" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhamg_9081" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/shubh1908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubh1908" height="50" width="50" /></a>
 <a href="https://codeforces.com/profile/shubh1908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shubh1908" height="50" width="50" /></a>
